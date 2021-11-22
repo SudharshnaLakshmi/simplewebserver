@@ -4,15 +4,18 @@ To develop a simple webserver to display top five programming languages.
 
 ## DESIGN STEPS:
 ### Step 1: 
-HTML content creation
+HTML content creation.
 ### Step 2:
-Design of webserver workflow
+Plan your layout.Create the elements in your layout.
 ### Step 3:
-Implementation using Python code
+Implementation using Python code to run a webserver.
 ### Step 4:
 Serving the HTML pages.
 ### Step 5:
-Testing the webserver
+Testing the webserver by running the program in Python
+### Step 6:
+Celebrate! 
+Woo! You’re finally done your website!
 
 ## PROGRAM:
 ```
